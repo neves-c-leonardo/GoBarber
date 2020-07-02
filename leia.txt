@@ -1,0 +1,2 @@
+Leonardo de Carvalho Neves - 20170
+Comentei em todo o código cada ação e função.
